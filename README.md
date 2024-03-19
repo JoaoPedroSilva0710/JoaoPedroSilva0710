@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é João Pedro</h1>
 <h3 align="center">Eu sou apaixonado pela área de ciência e análise de dados</h3>
 
-- 🌱 Estou aprendendo sobre **Power BI**
+- 🌱 Estou aprendendo sobre **Python**
 
 - 👀 Meu trabalho atualmente é como vendedor na minha loja de brinquedos [JPbrinq](https://shopee.com.br/jpbrinq)
 
